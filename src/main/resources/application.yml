@@ -6,5 +6,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/vogellacompany/codeexamples-javaweb/com.vogella.spring.config
+          uri: https://github.com/roadamesantana/api.config
           searchPaths: config
