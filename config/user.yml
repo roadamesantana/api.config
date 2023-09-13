@@ -16,6 +16,8 @@ spring:
     name: user
   profiles:
     active: development
+  main:
+    web-application-type: reactive
   data:
     mongodb:
       database: aatruckdetailDB
