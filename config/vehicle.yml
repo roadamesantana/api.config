@@ -13,7 +13,7 @@ jwt:
 
 spring:
   application:
-    name: user
+    name: vehicle
   profiles:
     active: development
   main:
