@@ -6,6 +6,7 @@ spring:
     name: gateway
   cloud:
     gateway:
+      returnErrors: true
       discovery:
         locator:
           enabled: true
